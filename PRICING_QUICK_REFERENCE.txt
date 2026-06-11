@@ -1,0 +1,286 @@
+================================================================================
+BRANDZIO PRICING QUICK REFERENCE
+================================================================================
+
+QUICK LOOKUP: Use this to assign pricing in audits based on prospect tier & industry
+
+================================================================================
+
+PRICING FRAMEWORK
+
+================================================================================
+
+## BASE RETAINER PRICING (Monthly)
+
+### TIER 1: DENTAL CLINICS (Premium Positioning)
+Monthly Retainer: £3,500 - £4,500
+Minimum Engagement: 6 months
+Total Cost (6 months): £21,000 - £27,000
+
+Why premium?
+- High inquiry volume (15-25/month baseline)
+- High client value (£150-400/month recurring)
+- Clear ROI: +30% inquiries = +£2,250-3,600 monthly revenue
+- Highly structured sales process (consultations → conversions)
+
+What's included:
+✓ 2x monthly strategy calls
+✓ WhatsApp/SMS automation setup
+✓ Email nurture sequences
+✓ Instagram Reels content planning (2-3/week)
+✓ Conversion rate optimization
+✓ Monthly reporting dashboard
+
+---
+
+### TIER 2: COSMETIC SURGERY / DERMATOLOGY (High-Value)
+Monthly Retainer: £3,200 - £4,200
+Minimum Engagement: 6-12 months
+Total Cost (6 months): £19,200 - £25,200
+
+Why this tier?
+- Lower inquiry volume (8-15/month baseline) BUT very high client value
+- Client value: £3,000-8,000+ per procedure (one-time or repeat)
+- Requires trust-building & credibility-first content
+- Longer sales cycle (inquiry → consult → decision: 2-4 weeks)
+
+What's included:
+✓ 2x monthly strategy calls
+✓ Before-after content strategy
+✓ Surgeon credibility & thought leadership content
+✓ Patient testimonial amplification
+✓ Google/Instagram advertising optimization
+✓ Monthly reporting dashboard
+
+---
+
+### TIER 3: LUXURY SKIN / HAIR CARE CLINICS (Mid-Premium)
+Monthly Retainer: £2,800 - £3,800
+Minimum Engagement: 6 months
+Total Cost (6 months): £16,800 - £22,800
+
+Why this tier?
+- Medium inquiry volume (20-35/month)
+- Medium client value (£200-500/month recurring)
+- High repeat & upsell potential
+- Seasonal variations (summer vs winter treatments)
+
+What's included:
+✓ 2x monthly strategy calls
+✓ Instagram Reels & TikTok content planning
+✓ Email nurture for seasonal campaigns
+✓ Influencer/aesthetician partnership strategy
+✓ Conversion funnel optimization
+✓ Monthly reporting dashboard
+
+---
+
+### TIER 4: STARTUPS / E-COMMERCE (Growth-Focused)
+Monthly Retainer: £2,500 - £3,500
+Minimum Engagement: 6 months (can extend)
+Total Cost (6 months): £15,000 - £21,000
+
+Why this tier?
+- High inquiry volume but lower conversion baseline
+- Client value: £5,000-20,000+ (B2B) or £50-300 (B2C)
+- Need for content marketing + paid ads optimization
+- Rapid iteration & experimentation culture
+
+What's included:
+✓ 2x monthly strategy calls
+✓ Content marketing strategy & execution
+✓ Paid ads (Google, Facebook, TikTok) optimization
+✓ Email marketing automation
+✓ Product demo & testimonial content
+✓ Weekly performance reviews (first month)
+✓ Monthly reporting dashboard
+
+---
+
+## SPECIAL CIRCUMSTANCES & DISCOUNTS
+
+### UPFRONT PAYMENT DISCOUNT
+If prospect pays 6 months upfront:
+- Deduct 10% from total contract value
+
+Example:
+- Standard 6-month (Dental): £21,000 - £27,000
+- Upfront 10% discount: £18,900 - £24,300
+
+### PILOT ENGAGEMENT (3-Month Option)
+For prospects hesitant about 6-month commitment:
+- Offer 3-month pilot at 15% premium to standard rate
+
+Example:
+- Standard monthly (Dental): £3,500
+- 3-month pilot: (£3,500 × 1.15) × 3 = £12,075
+- Then: Upgrade to 6-month at standard rate if successful
+
+### TEAM SCALING ADD-ON
+If prospect has multiple locations or departments:
+- Base retainer: £[AMOUNT]
+- Per additional location/department: +£500-800/month
+
+Example:
+- Single dental clinic: £3,500/month
+- 3 dental clinics: (£3,500 × 3) + £300 coordination = £10,800/month
+
+### PRODUCT/SERVICE LAUNCH ADD-ON
+If prospect is launching new service during engagement:
+- Add £1,000-2,000 one-time launch project
+- Includes: Content strategy, go-to-market plan, email sequence
+
+---
+
+## PRICING BY PROSPECT TIER (Quick Assignment)
+
+### HOT PROSPECT (Score 85-100)
+Fit: Dental/Cosmetic clinic, £15k+/month marketing budget, clear metrics
+→ Recommend: **TIER 1 or 2 pricing** (£3,200-£4,500/month)
+→ Pitch: 6-month engagement, performance bonus available
+→ Close rate: 60-70% of discussions
+
+### WARM PROSPECT (Score 70-84)
+Fit: Luxury skin/hair, startups, £5k-15k/month budget, some metrics
+→ Recommend: **TIER 3 or 4 pricing** (£2,500-£3,800/month)
+→ Pitch: 6-month engagement with 3-month pilot option
+→ Close rate: 40-50% of discussions
+
+### MAYBE PROSPECT (Score 55-69)
+Fit: Smaller budget, unclear metrics, niche vertical
+→ Recommend: **TIER 4 pricing + pilot** (£2,500/month × 3)
+→ Pitch: "Let's test with a 3-month pilot first"
+→ Close rate: 20-30% of discussions
+
+### COLD PROSPECT (Score <55)
+Fit: Budget <£3k, no growth ambition, wrong vertical
+→ ACTION: Nurture list (6-month follow-up)
+→ Don't pitch yet; send monthly value content
+→ Revisit when they show readiness
+
+---
+
+## PRICING NEGOTIATION RULES
+
+✅ OKAY TO NEGOTIATE:
+- Lock in lower monthly rate if they commit 12 months (instead of 6)
+- Bundle services (e.g., ads + content + automation at discount)
+- Offer performance bonus (if we hit X inquiries, they pay Y extra)
+- Discount if they're a referral or case study
+
+❌ DO NOT NEGOTIATE (Stand Firm):
+- Don't drop below:
+  - Dental/Cosmetic: £2,800/month
+  - Luxury skin/hair: £2,200/month
+  - Startups: £2,000/month
+- Don't reduce below 6-month minimum engagement
+- Don't bundle "free" services beyond what's promised
+- Don't compete on price with other agencies (compete on results)
+
+---
+
+## CONVERSATION EXAMPLES
+
+### How to Present Pricing (Discovery Call)
+
+**OPENER:**
+"Based on your current state, here's what we typically charge for your type of business:
+
+For dental clinics like yours, a 6-month engagement is £3,500-4,500/month.
+Based on our chat, I'd recommend the lower end: £3,500/month.
+
+That's because we're focused on 3 quick wins in the first 90 days.
+Once those are working, most clients see an extra 30-50% in inquiries within 3 months.
+
+For you, that's roughly £2,250-3,600 in new monthly revenue.
+So your investment pays for itself in less than a month.
+
+Does that make sense to you?"
+
+**IF THEY SAY "Too expensive":**
+"I hear you. Let's talk about what the cost of NOT doing this is.
+
+You're getting [CURRENT_INQUIRIES] inquiries/month and converting [CURRENT_CONVERSION]%.
+That's [CURRENT_REVENUE] in monthly revenue from new clients.
+
+If we improve that by even 20% (very conservative), that's [IMPROVED_REVENUE] extra monthly.
+Over 6 months, that's £[TOTAL_VALUE].
+
+So the real question isn't whether you can afford £3,500/month—
+it's whether you can afford NOT to.
+
+How does that land?"
+
+**IF THEY SAY "Can we do 3 months?":**
+"I get it. Most first-time clients want to test the waters.
+
+Here's what I suggest:
+Let's do a 3-month pilot at £4,025/month (15% premium for the shorter commitment).
+That's £12,075 total.
+
+If we hit the targets we outlined, you upgrade to 6-month at the standard £3,500 rate.
+If we don't hit targets, we part ways—no hard feelings.
+
+Fair?"
+
+**IF THEY SAY "I need to think about it":**
+"Totally fair. Here's what I'd suggest:
+
+Let's lock in this pricing for 14 days. After that, prices may adjust.
+Give yourself a few days to think, then we can circle back Wednesday.
+
+Does that work?"
+
+---
+
+## EXPANSION & UPSELL OPPORTUNITIES
+
+Once a client is 3+ months in, pitch these add-ons:
+
+### UPSELL 1: Additional Service Line
+"You mentioned wanting to promote [New Service] in Q2.
+We can create a dedicated launch campaign for that: +£1,500 one-time."
+
+### UPSELL 2: Geographic Expansion
+"Since location #1 is working, let's replicate this for location #2.
+Additional clinic: +£800/month (we leverage templates)."
+
+### UPSELL 3: Performance Bonus
+"If we hit 50+ new inquiries/month by Month 6, you bonus us £2,500.
+Aligns our incentives." (offer only if you're confident)
+
+### UPSELL 4: Done-For-You Content
+"Instead of us planning + you executing, we'll do it all.
++£1,000-2,000/month for full content production."
+
+---
+
+## PRICING CHECKLIST BEFORE A CALL
+
+Before jumping on a discovery call with a prospect, use this:
+
+☐ What's their industry? (Maps to Tier)
+☐ What's their estimated budget? (HOT = £15k+, WARM = £5k-15k)
+☐ What's their tier score? (HOT/WARM/MAYBE/COLD)
+☐ What's my recommended pricing? (Fill in from guide above)
+☐ Do they have budget objections? (Plan negotiation strategy)
+☐ Are they HOT tier? (If yes, go in with confidence, don't discount)
+☐ Are they WARM? (Offer 3-month pilot as fallback)
+☐ Are they MAYBE? (Don't engage; nurture for 6 months)
+
+---
+
+## QUICK REFERENCE: PRICE BY SCORE
+
+| Prospect Score | Tier | Industry | Recommended Price | Min Engagement |
+|---|---|---|---|---|
+| 90-100 | 🔥 HOT | Dental | £4,000-4,500 | 6 months |
+| 85-89 | 🔥 HOT | Cosmetic | £3,800-4,200 | 6 months |
+| 75-84 | 🟢 WARM | Luxury Skin/Hair | £3,000-3,800 | 6 months |
+| 70-74 | 🟢 WARM | Startup/E-com | £2,700-3,500 | 6 months |
+| 60-69 | 🟡 MAYBE | Any | Pilot option: £2,500-3,000 | 3 months |
+| <60 | 🔵 COLD | Any | Don't engage | N/A |
+
+================================================================================
+END OF PRICING QUICK REFERENCE
+================================================================================

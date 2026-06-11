@@ -1,0 +1,341 @@
+================================================================================
+JAGGO EARTHROOTS BUYER MATCHER — QUICK START GUIDE
+================================================================================
+
+WELCOME! This file tells you exactly where to find & how to use the Jaggo files.
+
+================================================================================
+
+WHAT YOU NEED TO AUTOMATE JAGGO LEAD GENERATION
+
+================================================================================
+
+✅ YOU HAVE THESE ALREADY (in this repo):
+
+1. JAGGO_BUYER_MATCHER_SKILL.md
+   → Complete buyer matching algorithm + output template
+   → Tells you how to score prospects 0-100
+   → Pre-written email templates for each tier
+   → Product mix recommendations
+
+2. IMPLEMENTATION_PLAYBOOK.md (Jaggo section)
+   → Weekly workflow for Jaggo
+   → Google Sheet structure for buyers
+   → Follow-up cadence
+   → Success metrics
+
+❌ YOU STILL NEED TO CREATE:
+
+1. Jaggo Buyer Research Template
+   → Similar to Brandzio template, but 10 questions about the buyer
+   → Where to research: LinkedIn, website, Instagram
+   → How to score them
+
+2. Jaggo Automation Workflow (Zapier)
+   → How to connect: LinkedIn → Zapier → Claude → Google Sheets
+   → Auto-score prospects
+   → Auto-send follow-up emails
+
+================================================================================
+
+QUICK START: The 5-MINUTE JAGGO SETUP
+
+================================================================================
+
+STEP 1: GET THE JAGGO SKILL
+You already have: JAGGO_BUYER_MATCHER_SKILL.md
+This is your "playbook" for scoring buyers.
+
+STEP 2: CREATE JAGGO BUYER INTAKE FORM
+Based on the 10 questions in JAGGO_BUYER_MATCHER_SKILL.md, create a form:
+
+Questions to collect from each buyer:
+
+1. Company Name
+2. Buyer Type (Luxury retailer / Hospitality / Importer / Reseller / Other)
+3. Primary Market (Germany / UK / Scandinavia / France / Other)
+4. Store Focus (Home décor / Ethical lifestyle / Yoga/wellness / Museum gift / etc)
+5. Est. Annual Order Value (£0-5k / £5-15k / £15-50k / £50k+)
+6. Lead Time Flexibility (Flexible / 30-45 days / Rush only)
+7. Sustainability Priority (Critical / Important / Nice-to-have)
+8. Website/Instagram Handle
+9. Decision Maker Name & Email
+10. Current Sourcing Challenge
+
+Deploy this as:
+- Manual form for your internal use
+- Or Typeform for prospects to self-fill
+
+STEP 3: USE THE MATCHING ALGORITHM
+For each buyer:
+1. Fill in the 10 fields
+2. Use the scoring formula in JAGGO_BUYER_MATCHER_SKILL.md
+3. Calculate their score (0-100)
+4. Assign tier: 🔥 HOT (85+) | 🟢 WARM (70-84) | 🟡 MAYBE (55-69) | 🔵 COLD (<55)
+
+STEP 4: GENERATE MATCH CARD
+For each buyer (especially HOT tier):
+1. Use the "OUTPUT SCHEMA" from JAGGO_BUYER_MATCHER_SKILL.md
+2. Generate match card with:
+   - Score + Tier
+   - Product recommendation
+   - Buyer persona & pain points
+   - Personalized email template
+
+STEP 5: SEND + LOG
+1. Send personalized email to HOT tier buyers
+2. Log in Google Sheet: Jaggo Buyers tab
+3. Track replies & book calls with Vinod
+
+================================================================================
+
+THE JAGGO GOOGLE SHEET (What to track)
+
+================================================================================
+
+Columns to add to your shared Google Sheet:
+
+| Company | Buyer Name | Email | Phone | Location | Store Type | Est Order Value | Match Score | Tier | Email Sent | Reply Date | Call Booked | Order Placed | Notes |
+|---------|-----------|-------|-------|----------|-----------|-----------------|-------------|------|-----------|------------|------------|--------------|-------|
+| [Name]  | [Contact] | [Em]  | [Ph]  | [City]   | [Type]    | [£ range]       | [0-100]     | [T]  | [Date]    | [Date]     | [Y/N]      | [Y/N]        | [...] |
+
+
+Key columns explained:
+- Match Score: 0-100 (use algorithm from JAGGO_BUYER_MATCHER_SKILL.md)
+- Tier: HOT/WARM/MAYBE/COLD
+- Email Sent: Date you sent first email
+- Reply Date: When they replied
+- Call Booked: Have you booked with Vinod?
+- Order Placed: Did they order? (If yes, note amount in Notes column)
+- Notes: Product fit, objection, next step
+
+================================================================================
+
+WHERE TO FIND JAGGO BUYERS (Research Strategy)
+
+================================================================================
+
+1️⃣ GERMANY (Priority #1)
+- Search: "ethical home décor retailer Berlin"
+- Keywords: "Luxusgeschäft", "nachhaltiges Design", "Fair Trade"
+- Places to look:
+  - Ambiente Frankfurt exhibitors list
+  - Instagram hashtags: #ethicalretail #germandesign #lussuryhomedecor
+  - LinkedIn: "Retailer at [luxury store names]"
+  - Websites: DesignBoom, A+D Network (DE)
+
+2️⃣ UK (Priority #2)
+- Search: "ethical luxury home retailer UK"
+- Keywords: "independent retailers", "fairtrade home"
+- Places to look:
+  - Shoreditch/Notting Hill boutiques (research 20-30)
+  - LinkedIn: Contact "Head of Buying" at luxury retailers
+  - Instagram: #ethicalretail #britishhomeware #luxurylifestyle
+  - Design magazines: ICON Design, Dwell
+
+3️⃣ SCANDINAVIA (Priority #3)
+- Search: "Scandinavian design + ethical home + Sweden"
+- Keywords: "Nordic design", "fair trade", "artisan"
+- Places to look:
+  - Design Stockholm exhibition list
+  - Instagram: #scandinaviandesign #ethicalfashion #nordicliving
+  - Major retailers: Illums Bolighus (Copenhagen), FK Retail (Stockholm)
+
+4️⃣ HOSPITALITY BUYERS
+- Search: "luxury hotel design + Europe" OR "5-star restaurant interior"
+- Look for: Interior designers, hospitality consultants
+- Places:
+  - LinkedIn: Filter by "Hospitality" + "Interior Design"
+  - Websites: Designhotels.com, Luxury hospitality magazines
+  - Email: Find "Head of Design" or "Procurement Manager"
+
+================================================================================
+
+THE JAGGO SALES EMAIL TEMPLATE
+
+================================================================================
+
+Subject Line:
+"Ethical luxury for [Store Name]'s Q4 gifting — 60% margin on Kashmiri crewel"
+
+Email Body (Customize based on Match Card):
+
+---
+
+Hi [Buyer Name],
+
+I work with Vinod at Jaggo Earthroots — we source heritage artisan crafts from India to independent retailers across Europe.
+
+I noticed [Store Name] focuses on [ethical lifestyle / luxury home / hospitality], which aligns perfectly with our collection of handwoven Kashmiri crewel and fair-trade heritage textiles.
+
+Quick fit check:
+• Fair-trade certified, B-Corp adjacent positioning ✓
+• MOQ from 50 units (flexible for curated selections) ✓
+• 45–50 day lead time (works for Q4 ordering window) ✓
+• 55–65% wholesale margin typical for retailers at your scale ✓
+
+Sample order value: 150–200 units, ~£6,500 wholesale. First-time buyers often start with a mixed collection to test category fit.
+
+Would a quick 15-min call with Vinod make sense? He can walk you through current bestsellers, exclusivity options, and samples.
+
+Let me know availability.
+
+Best,
+Aaron
+Jaggo Earthroots
+saamaaro@gmail.com | +91 9686 100143
+
+---
+
+Follow-up (Day 5, if no reply):
+
+Hi [Buyer Name],
+
+Just checking in on our note about Jaggo Earthroots heritage crafts for [Store Name].
+
+Would this week be good for a quick call with Vinod? He can send over product lookbooks + samples for your team.
+
+Let me know! 🙌
+
+================================================================================
+
+JAGGO SUCCESS METRICS (What to track)
+
+================================================================================
+
+MONTH 1 TARGETS:
+- 40-50 buyers identified
+- 20 HOT/WARM tier
+- 15-20 emails sent
+- 0-1 replies
+- 0-1 calls booked
+
+MONTH 2 TARGETS:
+- 40-50 new buyers identified (total: 80-100)
+- 20-30 emails sent (follow-ups + new prospects)
+- 2-4 replies
+- 1-2 calls booked with Vinod
+- 0 orders (too early)
+
+MONTH 3 TARGETS:
+- 40-50 new buyers identified (total: 120-150)
+- 30-40 emails sent
+- 4-6 replies
+- 2-3 calls booked
+- 1-2 orders placed (£5k-10k each)
+
+YEAR 1 TARGET:
+- 300+ buyers in database
+- 20-30% are WARM tier or higher
+- 8-12 orders/year
+- Avg order: £6,000
+- Total annual revenue: £48,000-72,000
+
+================================================================================
+
+WHEN TO ESCALATE TO VINOD
+
+================================================================================
+
+Vinod should be involved when:
+
+✅ Buyer tier is HOT (85+) — Move to call this week
+✅ Buyer replied to email — Warm intro from you, then Vinod takes over
+✅ Buyer has high order potential (£15k+/year) — Vinod handles sales
+
+❌ Don't involve Vinod for:
+❌ COLD tier buyers (<55) — Archive
+❌ MAYBE tier who didn't reply — Auto-nurture, try again in 30 days
+❌ First contact research/outreach — You do this, then warm intro to Vinod
+
+================================================================================
+
+QUICK DECISION TREE: Am I HOT, WARM, MAYBE, or COLD?
+
+================================================================================
+
+Start with: What's their annual order potential?
+
+£50k+/year?
+→ Likely HOT (score 80-100)
+→ Action: Personal warm intro to Vinod this week
+
+£15k-50k/year?
+→ Check: Ethical positioning (critical)? + Germany/UK location? + Flexible lead time?
+→ If YES: WARM (70-84) → Email + 2-week follow-up
+→ If NO: MAYBE (55-69) → Email + monthly nurture
+
+£5k-15k/year?
+→ Check: Ethical positioning + Scandinavia location?
+→ If YES: WARM (70-84) → Email + follow-up
+→ If NO: MAYBE (55-69) → Email + nurture
+
+£0-5k/year?
+→ COLD (<55)
+→ Action: Archive or 6-month nurture
+
+================================================================================
+
+FILES YOU NEED
+
+================================================================================
+
+In this repo:
+☐ JAGGO_BUYER_MATCHER_SKILL.md (Scoring algorithm + templates)
+☐ IMPLEMENTATION_PLAYBOOK.md (Weekly workflow)
+☐ README.md (Setup instructions)
+
+You need to create:
+☐ Jaggo_Buyer_Research_Template.txt (10-question intake)
+☐ Jaggo_Google_Sheet (Shared with Vinod)
+☐ Jaggo_Zapier_Workflow (Optional: automation)
+
+================================================================================
+
+NEXT STEP: SETUP YOUR GOOGLE SHEET
+
+================================================================================
+
+1. Create new Google Sheet: "Jaggo Earthroots Buyers"
+2. Add columns (see section above)
+3. Share with Vinod (vinod.uk@email.com — TBD)
+4. Make him able to "Suggest edits"
+5. Create "Admin" tab for tracking targets & metrics
+6. Start adding prospects from your research
+
+================================================================================
+
+READY TO START? HERE'S YOUR FIRST WEEK:
+
+================================================================================
+
+DAY 1-2: Research
+- Find 10 ethical luxury retailers in Berlin (LinkedIn + Instagram)
+- For each: Name, email, buyer contact, product fit
+- Add to Google Sheet
+
+DAY 3-4: Score & Match
+- Use JAGGO_BUYER_MATCHER_SKILL.md algorithm
+- Score each on 0-100
+- Assign tier
+
+DAY 5: Outreach
+- Send personalized emails to HOT tier (likely 3-5)
+- Use template from this guide (customize per buyer)
+- Log email sent date in Sheet
+
+DAY 6-7: Prep Vinod
+- Review any replies
+- Brief Vinod on HOT prospects
+- Coordinate warm intro calls
+
+================================================================================
+
+QUESTIONS?
+
+Email: samaaro@gmail.com
+Phone: [YOUR PHONE]
+
+Good luck! 🚀
+
+================================================================================

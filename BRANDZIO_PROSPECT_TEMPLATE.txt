@@ -1,0 +1,177 @@
+================================================================================
+BRANDZIO PROSPECT INTAKE FORM — 8 CRITICAL QUESTIONS
+================================================================================
+
+Use this template to collect prospect information for audit generation.
+Send via email, Typeform, Airtable, or Zapier.
+
+================================================================================
+
+INTAKE FORM (Copy & Customize for Your Tools)
+
+================================================================================
+
+📋 BRANDZIO PROSPECT INTAKE
+
+Please answer these 8 quick questions so we can generate your personalized 
+growth audit. (Takes ~5 minutes)
+
+---
+
+1. COMPANY NAME & INDUSTRY
+   What's your business name and primary service?
+   (e.g., "Bright Smile Dental — Cosmetic & General Dentistry")
+   
+   Answer: _______________________________________________
+
+---
+
+2. CURRENT MONTHLY INQUIRIES
+   How many inquiries/leads do you get per month?
+   (Estimate if unsure. Include all channels: phone, email, web form, etc.)
+   
+   Answer: ______________ inquiries/month
+
+---
+
+3. INQUIRY → CONSULT BOOKING RATE
+   What % of inquiries turn into scheduled consultations?
+   (e.g., "We get 20 inquiries, 5 become consultations = 25%")
+   
+   Answer: _______________ %
+
+---
+
+4. CONSULT → PAID CLIENT CONVERSION RATE
+   What % of consultations convert to paying clients?
+   (e.g., "Out of 5 consultations, we close 2–3 = 40–60%")
+   
+   Answer: _______________ %
+
+---
+
+5. AVERAGE CLIENT VALUE
+   What's your average revenue per new client?
+   (Can be monthly retainer, one-time fee, or annual. E.g., "£250/month" or "£3,500 per procedure")
+   
+   Answer: £ _______________ (monthly / one-time / annual)
+
+---
+
+6. CURRENT MARKETING CHANNELS
+   Which channels are currently driving inquiries? 
+   (Check all that apply, rank top 3)
+   
+   ☐ Google Ads / SEO
+   ☐ Instagram / Social Media
+   ☐ Facebook Ads
+   ☐ Email / Newsletter
+   ☐ Referrals / Word of mouth
+   ☐ Local partnerships
+   ☐ Website organic
+   ☐ Other: ____________________________
+   
+   Top 3 channels: 
+   1. ___________________________
+   2. ___________________________
+   3. ___________________________
+
+---
+
+7. MONTHLY MARKETING BUDGET (Optional)
+   What are you currently spending on marketing/ads per month?
+   (This helps us recommend realistic next steps)
+   
+   Answer: £ _______________ /month (or "Not tracking" / "TBD")
+
+---
+
+8. BIGGEST PAIN POINT
+   What's your #1 marketing frustration right now?
+   (Pick one or describe)
+   
+   ☐ Not enough inquiries
+   ☐ Poor inquiry quality (tire-kickers)
+   ☐ Low conversion rate (inquiries → consultations)
+   ☐ Brand feels generic / outdated
+   ☐ Not using AI/automation effectively
+   ☐ Can't compete with larger providers
+   ☐ Other: ____________________________
+
+---
+
+CONTACT INFORMATION
+
+Name: ______________________________
+
+Email: ______________________________
+
+Phone: ______________________________
+
+Company: ______________________________
+
+---
+
+THANK YOU!
+
+We'll generate your personalized audit within 24 hours and send it to your email.
+
+Questions? Reply to this form or email: samaaro@gmail.com
+
+================================================================================
+IMPLEMENTATION NOTES FOR Aaron
+================================================================================
+
+WHERE TO USE THIS FORM:
+
+1. **Email Template**
+   Copy questions 1–8 into an email. Send to prospects.
+   
+2. **Typeform / Google Forms**
+   Create a form with these 8 questions.
+   Link: [Your form URL]
+   
+3. **Airtable**
+   Create a table with these 8 fields. Share form view with prospects.
+   
+4. **Zapier Automation**
+   Connect form submission → Claude API → Auto-email audit back to prospect
+   
+5. **LinkedIn Message / WhatsApp**
+   Paste questions directly in DM. Ask one-by-one.
+
+---
+
+SCORING AFTER THEY RESPOND:
+
+Once you have all 8 answers, calculate prospect tier:
+
+HOT (85–100):
+- Budget: £15k+/month
+- Industry: Dental or cosmetic clinics
+- Pain point: Specific, solvable (not "everything")
+- Conversion rate: Already tracking metrics (shows data maturity)
+→ ACTION: Send audit + book call immediately
+
+WARM (70–84):
+- Budget: £5k–15k/month
+- Industry: Luxury skin/hair, startups, e-commerce
+- Pain point: Clear but not urgent
+- Inquiry volume: 20+ per month
+→ ACTION: Send audit + 2-week follow-up email
+
+MAYBE (55–69):
+- Budget: £3k–5k/month OR budget unknown
+- Industry: Service-based but niche
+- Pain point: Vague ("everything is hard")
+- No clear conversion baseline
+→ ACTION: Send audit, low priority follow-up
+
+COLD (<55):
+- Budget: <£3k/month
+- Single-location service business
+- No growth ambition signaled
+- Not interested in AI/automation
+→ ACTION: Archive or nurture list (6-month follow-up)
+
+================================================================================
